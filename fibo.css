@@ -1,0 +1,31 @@
+.fibo {
+	text-align: center;
+}
+.jumbotron {
+	background-color: #8CBFDF
+}
+.title {
+	font-family: "Supermercado One", cursive;
+}
+.text {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.task {
+	color: #B71FA7
+}
+.blue {
+	color: #393EEA
+}
+.btn-primary {
+	width: 200px;
+	height: 50px;
+	border-width: 6px;
+	color: #A7D2ED
+}
+.btn-primary:hover {
+	background-color: #8CBFDF;
+}
+
+.answer {
+	font-family: 'Roboto Condensed', sans-serif;
+}
